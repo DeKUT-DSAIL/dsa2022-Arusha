@@ -6,7 +6,7 @@ This repo contains material to be used for the DSAIL session at DSA 2022. During
 
 ## Instructions on installing requirements for windows.
 
-### A.  Using pip on Windows  ##### Easier and quicker to use
+### A.  Using pip on Windows
 1. Clone this repository and cd into it
 2. Create a [virtual environment](https://docs.python.org/3/tutorial/venv.html)
  `python -m venv dsa2022`
@@ -17,7 +17,7 @@ This repo contains material to be used for the DSAIL session at DSA 2022. During
 `pip install -r requirements.txt`
 6. Launch `jupyter notebook`
 
-### B. Using pip on Linux ##### Easier and quicker to use 
+### B. Using pip on Linux 
 1. Clone this repository and cd into it
 2. Create a [virtual environment](https://docs.python.org/3/tutorial/venv.html)
  `python -m venv dsa2022`
