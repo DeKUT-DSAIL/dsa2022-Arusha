@@ -27,19 +27,3 @@ This repo contains material to be used for the DSAIL session at DSA 2022. During
 5. Install the requirements
 `pip install -r requirements.txt`
 6. Launch `jupyter notebook`
-
-### C. Using anaconda 
-1. Download and install [Anaconda](https://www.anaconda.com/products/distribution) for your machine.
-
-2. Open Anaconda prompt
-
-3. Clone this repository and cd into it
-
-4.  Create enviroment `conda create --name dsa2022`
-
-5. Access environment `conda activate dsa2022`
-
-6. Installl requirements `pip install -r requirements.txt`
-
-7. Launch jupyter `jupyter notebook`
-
