@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.pyc
+data/poriniimagesnoncropped/
+.data-00000-of-00001
+.index
+checkpoint
+__pycache__
+pretrained-model.ipynb
+*.h5
+*.csv
