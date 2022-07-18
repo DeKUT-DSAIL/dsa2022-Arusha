@@ -13,7 +13,7 @@ To be able to run the notebooks in this session, do the following
 
 2. Create a [virtual environment](https://docs.python.org/3/tutorial/venv.html) On Linux `python3 -m venv dsa2022` or On Windows `python -m venv dsa2022`
 
-3. Activate it: On Linux `source iot-env/bin/activate` On Windows `dsa2022\Scripts\activate.bat`
+3. Activate it: On Linux `source dsa2022/bin/activate` On Windows `dsa2022\Scripts\activate.bat`
 
 4. Update pip: `pip install --upgrade pip`
 
