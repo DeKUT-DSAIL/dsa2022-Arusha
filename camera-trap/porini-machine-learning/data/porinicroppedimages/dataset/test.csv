@@ -1,0 +1,237 @@
+filename,region_count,region_shape_attributes,Device,Species,Count,Sex,Latitude,Longitude
+2021-09-29-13-44-42.jpg,1,"{""name"":""rect"",""x"":957,""y"":388,""width"":262,""height"":119}",Raspberry Pi 2,MONKEY,1,CAN'T TELL,-0.386616,36.965402
+2021-09-29-13-51-48.jpg,1,"{""name"":""rect"",""x"":990,""y"":419,""width"":238,""height"":104}",Raspberry Pi 2,MONKEY,1,CAN'T TELL,-0.386616,36.965402
+2021-11-02-08-37-48.jpg,1,"{""name"":""rect"",""x"":8,""y"":323,""width"":934,""height"":393}",Raspberry Pi 2,MONKEY,1,CAN'T TELL,-0.388557,36.961391
+2021-12-09-15-02-37.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-02-40.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-02-42.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-02-45.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-02-47.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-02-49.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-02-52.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-02-54.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-02-57.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-02-59.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-02.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-04.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-07.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-09.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-11.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-14.jpg,1,"{""name"":""rect"",""x"":919,""y"":379,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-16.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-19.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-21.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-24.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-26.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-28.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-31.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-33.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-36.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-38.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-41.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-43.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-46.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-48.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-51.jpg,1,"{""name"":""rect"",""x"":940,""y"":382,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-53.jpg,1,"{""name"":""rect"",""x"":957,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-56.jpg,1,"{""name"":""rect"",""x"":957,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-03-58.jpg,1,"{""name"":""rect"",""x"":957,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-00.jpg,1,"{""name"":""rect"",""x"":957,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-03.jpg,1,"{""name"":""rect"",""x"":957,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-05.jpg,1,"{""name"":""rect"",""x"":957,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-08.jpg,1,"{""name"":""rect"",""x"":957,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-10.jpg,1,"{""name"":""rect"",""x"":957,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-13.jpg,1,"{""name"":""rect"",""x"":957,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-15.jpg,1,"{""name"":""rect"",""x"":957,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-18.jpg,1,"{""name"":""rect"",""x"":957,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-20.jpg,1,"{""name"":""rect"",""x"":957,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-23.jpg,1,"{""name"":""rect"",""x"":957,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-25.jpg,1,"{""name"":""rect"",""x"":981,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-28.jpg,1,"{""name"":""rect"",""x"":981,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-30.jpg,1,"{""name"":""rect"",""x"":981,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-32.jpg,1,"{""name"":""rect"",""x"":981,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-35.jpg,1,"{""name"":""rect"",""x"":981,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-37.jpg,1,"{""name"":""rect"",""x"":981,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-09-15-04-40.jpg,1,"{""name"":""rect"",""x"":981,""y"":384,""width"":96,""height"":62}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.390772,36.9625
+2021-12-16-17-57-43.jpg,1,"{""name"":""rect"",""x"":1135,""y"":248,""width"":143,""height"":161}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.386616,36.965402
+2021-12-16-17-57-46.jpg,1,"{""name"":""rect"",""x"":715,""y"":328,""width"":250,""height"":142}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.386616,36.965402
+2021-12-16-17-57-48.jpg,1,"{""name"":""rect"",""x"":555,""y"":361,""width"":187,""height"":105}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.386616,36.965402
+2021-12-16-17-57-51.jpg,1,"{""name"":""rect"",""x"":519,""y"":360,""width"":154,""height"":123}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.386616,36.965402
+2021-12-16-17-57-53.jpg,1,"{""name"":""rect"",""x"":507,""y"":369,""width"":167,""height"":113}",Raspberry Pi 2,WARTHOG,1,CAN'T TELL,-0.386616,36.965402
+2021-12-23-17-56-41.jpg,1,"{""name"":""rect"",""x"":3,""y"":216,""width"":331,""height"":430}",Raspberry Pi Zero,BUSHBUCK,1,MALE,-0.386438,36.964109
+2021-12-23-17-56-43.jpg,1,"{""name"":""rect"",""x"":4,""y"":204,""width"":336,""height"":444}",Raspberry Pi Zero,BUSHBUCK,1,MALE,-0.386438,36.964109
+2021-12-23-17-56-46.jpg,1,"{""name"":""rect"",""x"":2,""y"":224,""width"":359,""height"":418}",Raspberry Pi Zero,BUSHBUCK,1,MALE,-0.386438,36.964109
+2021-12-23-17-56-48.jpg,1,"{""name"":""rect"",""x"":2,""y"":211,""width"":364,""height"":419}",Raspberry Pi Zero,BUSHBUCK,1,MALE,-0.386438,36.964109
+2021-12-23-17-56-51.jpg,1,"{""name"":""rect"",""x"":3,""y"":229,""width"":367,""height"":394}",Raspberry Pi Zero,BUSHBUCK,1,MALE,-0.386438,36.964109
+2021-12-23-17-56-55.jpg,1,"{""name"":""rect"",""x"":3,""y"":215,""width"":332,""height"":432}",Raspberry Pi Zero,BUSHBUCK,1,MALE,-0.386438,36.964109
+2021-12-23-17-57-00.jpg,1,"{""name"":""rect"",""x"":2,""y"":236,""width"":336,""height"":402}",Raspberry Pi Zero,BUSHBUCK,1,MALE,-0.386438,36.964109
+2021-12-23-17-57-03.jpg,1,"{""name"":""rect"",""x"":3,""y"":223,""width"":337,""height"":431}",Raspberry Pi Zero,BUSHBUCK,1,MALE,-0.386438,36.964109
+2021-12-23-17-57-05.jpg,1,"{""name"":""rect"",""x"":6,""y"":241,""width"":338,""height"":390}",Raspberry Pi Zero,BUSHBUCK,1,MALE,-0.386438,36.964109
+2021-12-23-17-57-08.jpg,1,"{""name"":""rect"",""x"":2,""y"":147,""width"":355,""height"":483}",Raspberry Pi Zero,BUSHBUCK,1,MALE,-0.386438,36.964109
+2021-12-23-17-57-10.jpg,1,"{""name"":""rect"",""x"":3,""y"":243,""width"":259,""height"":376}",Raspberry Pi Zero,BUSHBUCK,1,MALE,-0.386438,36.964109
+2021-12-23-18-17-29.jpg,1,"{""name"":""rect"",""x"":578,""y"":214,""width"":314,""height"":229}",Raspberry Pi 2,BUSHBUCK,1,MALE,-0.386616,36.965402
+2021-12-23-18-17-32.jpg,1,"{""name"":""rect"",""x"":154,""y"":159,""width"":425,""height"":298}",Raspberry Pi 2,BUSHBUCK,1,MALE,-0.386616,36.965402
+2021-12-24-18-34-13.jpg,1,"{""name"":""rect"",""x"":1224,""y"":425,""width"":54,""height"":51}",Raspberry Pi 2,BUSHBUCK,1,CAN'T TELL,-0.386616,36.965402
+2021-12-24-18-34-15.jpg,1,"{""name"":""rect"",""x"":553,""y"":110,""width"":672,""height"":522}",Raspberry Pi 2,BUSHBUCK,1,CAN'T TELL,-0.386616,36.965402
+2021-12-24-18-34-18.jpg,1,"{""name"":""rect"",""x"":1140,""y"":63,""width"":135,""height"":453}",Raspberry Pi 2,BUSHBUCK,1,CAN'T TELL,-0.386616,36.965402
+2021-12-25-17-12-11.jpg,1,"{""name"":""rect"",""x"":2,""y"":149,""width"":392,""height"":433}",Raspberry Pi 2,WATERBUCK,1,MALE,-0.386616,36.965402
+2021-12-25-17-57-03.jpg,1,"{""name"":""rect"",""x"":4,""y"":64,""width"":292,""height"":471}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-25-17-57-06.jpg,1,"{""name"":""rect"",""x"":262,""y"":118,""width"":532,""height"":368}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-25-17-57-08.jpg,1,"{""name"":""rect"",""x"":790,""y"":69,""width"":489,""height"":393}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-25-17-59-36.jpg,1,"{""name"":""rect"",""x"":120,""y"":151,""width"":465,""height"":336}",Raspberry Pi 2,WATERBUCK,1,MALE,-0.386616,36.965402
+2021-12-25-17-59-38.jpg,1,"{""name"":""rect"",""x"":577,""y"":169,""width"":452,""height"":292}",Raspberry Pi 2,WATERBUCK,1,MALE,-0.386616,36.965402
+2021-12-25-17-59-41.jpg,1,"{""name"":""rect"",""x"":791,""y"":167,""width"":424,""height"":300}",Raspberry Pi 2,WATERBUCK,1,MALE,-0.386616,36.965402
+2021-12-25-17-59-43.jpg,1,"{""name"":""rect"",""x"":784,""y"":167,""width"":442,""height"":295}",Raspberry Pi 2,WATERBUCK,1,MALE,-0.386616,36.965402
+2021-12-25-18-36-21.jpg,1,"{""name"":""rect"",""x"":6,""y"":71,""width"":566,""height"":624}",Raspberry Pi 2,BUSHBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-25-18-36-23.jpg,1,"{""name"":""rect"",""x"":697,""y"":88,""width"":494,""height"":496}",Raspberry Pi 2,BUSHBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-25-18-43-44.jpg,1,"{""name"":""rect"",""x"":867,""y"":49,""width"":407,""height"":448}",Raspberry Pi 2,WATERBUCK,1,MALE,-0.386616,36.965402
+2021-12-25-18-43-47.jpg,1,"{""name"":""rect"",""x"":808,""y"":42,""width"":465,""height"":463}",Raspberry Pi 2,WATERBUCK,1,MALE,-0.386616,36.965402
+2021-12-25-18-43-49.jpg,1,"{""name"":""rect"",""x"":835,""y"":40,""width"":437,""height"":457}",Raspberry Pi 2,WATERBUCK,1,MALE,-0.386616,36.965402
+2021-12-25-18-43-58.jpg,1,"{""name"":""rect"",""x"":725,""y"":41,""width"":538,""height"":486}",Raspberry Pi 2,WATERBUCK,1,MALE,-0.386616,36.965402
+2021-12-25-18-44-00.jpg,1,"{""name"":""rect"",""x"":715,""y"":53,""width"":534,""height"":513}",Raspberry Pi 2,WATERBUCK,1,MALE,-0.386616,36.965402
+2021-12-25-18-44-03.jpg,1,"{""name"":""rect"",""x"":665,""y"":66,""width"":521,""height"":505}",Raspberry Pi 2,WATERBUCK,1,MALE,-0.386616,36.965402
+2021-12-25-18-44-05.jpg,1,"{""name"":""rect"",""x"":591,""y"":54,""width"":611,""height"":517}",Raspberry Pi 2,WATERBUCK,1,MALE,-0.386616,36.965402
+2021-12-25-18-44-08.jpg,1,"{""name"":""rect"",""x"":557,""y"":40,""width"":633,""height"":550}",Raspberry Pi 2,WATERBUCK,1,MALE,-0.386616,36.965402
+2021-12-25-18-44-11.jpg,1,"{""name"":""rect"",""x"":3,""y"":3,""width"":662,""height"":626}",Raspberry Pi 2,WATERBUCK,1,MALE,-0.386616,36.965402
+2021-12-26-16-38-57.jpg,1,"{""name"":""rect"",""x"":2,""y"":97,""width"":194,""height"":223}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-16-39-00.jpg,1,"{""name"":""rect"",""x"":2,""y"":66,""width"":337,""height"":458}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-16-39-02.jpg,1,"{""name"":""rect"",""x"":2,""y"":78,""width"":347,""height"":469}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-16-39-05.jpg,1,"{""name"":""rect"",""x"":71,""y"":158,""width"":419,""height"":373}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-16-39-07.jpg,1,"{""name"":""rect"",""x"":343,""y"":193,""width"":246,""height"":287}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-16-39-10.jpg,1,"{""name"":""rect"",""x"":545,""y"":197,""width"":153,""height"":224}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-16-47-50.jpg,1,"{""name"":""rect"",""x"":5,""y"":146,""width"":367,""height"":371}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-16-47-53.jpg,1,"{""name"":""rect"",""x"":344,""y"":150,""width"":281,""height"":299}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-16-47-55.jpg,1,"{""name"":""rect"",""x"":578,""y"":186,""width"":174,""height"":214}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-16-47-58.jpg,1,"{""name"":""rect"",""x"":711,""y"":173,""width"":128,""height"":210}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-16-53-42.jpg,1,"{""name"":""rect"",""x"":830,""y"":150,""width"":376,""height"":297}",Raspberry Pi 2,BUSHBUCK,1,MALE,-0.386616,36.965402
+2021-12-26-16-53-44.jpg,1,"{""name"":""rect"",""x"":342,""y"":169,""width"":401,""height"":310}",Raspberry Pi 2,BUSHBUCK,1,MALE,-0.386616,36.965402
+2021-12-26-16-53-47.jpg,1,"{""name"":""rect"",""x"":2,""y"":245,""width"":235,""height"":277}",Raspberry Pi 2,BUSHBUCK,1,MALE,-0.386616,36.965402
+2021-12-26-17-20-48.jpg,1,"{""name"":""rect"",""x"":5,""y"":87,""width"":251,""height"":438}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-17-20-50.jpg,1,"{""name"":""rect"",""x"":6,""y"":78,""width"":376,""height"":435}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-17-20-55.jpg,1,"{""name"":""rect"",""x"":112,""y"":144,""width"":366,""height"":369}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-17-20-57.jpg,1,"{""name"":""rect"",""x"":419,""y"":177,""width"":213,""height"":262}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-17-21-00.jpg,1,"{""name"":""rect"",""x"":543,""y"":200,""width"":173,""height"":208}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+2021-12-26-17-21-32.jpg,1,"{""name"":""rect"",""x"":650,""y"":263,""width"":125,""height"":104}",Raspberry Pi 2,WATERBUCK,1,FEMALE,-0.386616,36.965402
+snapshot_2019109440353.jpg,1,"{""name"":""rect"",""x"":1,""y"":2,""width"":213,""height"":234}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019109440411.jpg,1,"{""name"":""rect"",""x"":2,""y"":1,""width"":634,""height"":474}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019109440996.jpg,1,"{""name"":""rect"",""x"":2,""y"":3,""width"":636,""height"":475}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_20191083114361.jpg,1,"{""name"":""rect"",""x"":345,""y"":21,""width"":289,""height"":373}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_20191083316256.jpg,1,"{""name"":""rect"",""x"":3,""y"":126,""width"":91,""height"":182}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_20191083414376.jpg,1,"{""name"":""rect"",""x"":206,""y"":172,""width"":146,""height"":121}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_20191083415384.jpg,1,"{""name"":""rect"",""x"":1,""y"":163,""width"":110,""height"":153}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_20191083415427.jpg,1,"{""name"":""rect"",""x"":1,""y"":169,""width"":107,""height"":152}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_20191083432201.jpg,1,"{""name"":""rect"",""x"":545,""y"":38,""width"":93,""height"":170}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_20191083743521.jpg,1,"{""name"":""rect"",""x"":410,""y"":184,""width"":102,""height"":71}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_20191094401161.jpg,1,"{""name"":""rect"",""x"":349,""y"":-1,""width"":281,""height"":460}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_20191094401218.jpg,1,"{""name"":""rect"",""x"":318,""y"":3,""width"":320,""height"":470}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_20191094406224.jpg,1,"{""name"":""rect"",""x"":1,""y"":3,""width"":230,""height"":471}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_20191094407181.jpg,1,"{""name"":""rect"",""x"":5,""y"":3,""width"":630,""height"":472}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_20191094408139.jpg,1,"{""name"":""rect"",""x"":5,""y"":3,""width"":630,""height"":472}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_20191094753560.jpg,1,"{""name"":""rect"",""x"":311,""y"":175,""width"":197,""height"":132}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_201910831140104.jpg,1,"{""name"":""rect"",""x"":42,""y"":163,""width"":175,""height"":149}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910831142998.jpg,1,"{""name"":""rect"",""x"":2,""y"":172,""width"":196,""height"":162}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910831457254.jpg,1,"{""name"":""rect"",""x"":23,""y"":39,""width"":491,""height"":430}",OpenMV Cam H7,WARTHOG,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910832818469.jpg,1,"{""name"":""rect"",""x"":134,""y"":13,""width"":503,""height"":461}",OpenMV Cam H7,WARTHOG,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910834152135.jpg,1,"{""name"":""rect"",""x"":163,""y"":151,""width"":199,""height"":155}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910834152138.jpg,1,"{""name"":""rect"",""x"":5,""y"":161,""width"":109,""height"":153}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910834156230.jpg,1,"{""name"":""rect"",""x"":2,""y"":170,""width"":103,""height"":144}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910834242772.jpg,1,"{""name"":""rect"",""x"":316,""y"":7,""width"":322,""height"":368}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910834243432.jpg,1,"{""name"":""rect"",""x"":422,""y"":47,""width"":214,""height"":296}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_201910834256246.jpg,1,"{""name"":""rect"",""x"":5,""y"":172,""width"":95,""height"":114}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_201910834258137.jpg,1,"{""name"":""rect"",""x"":32,""y"":160,""width"":86,""height"":123}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_201910834263469.jpg,1,"{""name"":""rect"",""x"":174,""y"":171,""width"":115,""height"":96}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910834322483.jpg,1,"{""name"":""rect"",""x"":3,""y"":140,""width"":151,""height"":263}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910834322522.jpg,1,"{""name"":""rect"",""x"":3,""y"":143,""width"":127,""height"":250}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910837415831.jpg,1,"{""name"":""rect"",""x"":338,""y"":186,""width"":161,""height"":104}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910837420232.jpg,1,"{""name"":""rect"",""x"":424,""y"":171,""width"":134,""height"":114}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910837435068.jpg,1,"{""name"":""rect"",""x"":342,""y"":187,""width"":105,""height"":73}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910837435134.jpg,1,"{""name"":""rect"",""x"":372,""y"":181,""width"":108,""height"":77}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910940572189.jpg,1,"{""name"":""rect"",""x"":238,""y"":203,""width"":126,""height"":85}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910940572230.jpg,1,"{""name"":""rect"",""x"":130,""y"":212,""width"":138,""height"":95}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910940573979.jpg,1,"{""name"":""rect"",""x"":2,""y"":217,""width"":120,""height"":115}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910940574664.jpg,1,"{""name"":""rect"",""x"":210,""y"":206,""width"":107,""height"":86}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910941166226.jpg,1,"{""name"":""rect"",""x"":86,""y"":207,""width"":36,""height"":64}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910941167175.jpg,1,"{""name"":""rect"",""x"":86,""y"":207,""width"":36,""height"":64}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910942453495.jpg,1,"{""name"":""rect"",""x"":449,""y"":80,""width"":189,""height"":186}",OpenMV Cam H7,WATERBUCK,1,FEMALE,-0.390381,36.962333
+snapshot_201910942453561.jpg,1,"{""name"":""rect"",""x"":554,""y"":106,""width"":82,""height"":164}",OpenMV Cam H7,WATERBUCK,1,FEMALE,-0.390381,36.962333
+snapshot_201910942572798.jpg,1,"{""name"":""rect"",""x"":348,""y"":1,""width"":290,""height"":152}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910942572864.jpg,1,"{""name"":""rect"",""x"":0,""y"":0,""width"":636,""height"":478}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910942572929.jpg,1,"{""name"":""rect"",""x"":3,""y"":7,""width"":151,""height"":461}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910943413988.jpg,1,"{""name"":""rect"",""x"":455,""y"":199,""width"":59,""height"":74}",OpenMV Cam H7,WARTHOG,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910943414029.jpg,1,"{""name"":""rect"",""x"":421,""y"":205,""width"":83,""height"":84}",OpenMV Cam H7,WARTHOG,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910944014232.jpg,1,"{""name"":""rect"",""x"":3,""y"":2,""width"":468,""height"":465}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910944156209.jpg,1,"{""name"":""rect"",""x"":4,""y"":91,""width"":43,""height"":156}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_201910944157168.jpg,1,"{""name"":""rect"",""x"":2,""y"":116,""width"":88,""height"":170}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_201910947101559.jpg,1,"{""name"":""rect"",""x"":202,""y"":186,""width"":214,""height"":143}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910947102064.jpg,1,"{""name"":""rect"",""x"":403,""y"":160,""width"":202,""height"":162}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_201910947103211.jpg,1,"{""name"":""rect"",""x"":531,""y"":125,""width"":107,""height"":193}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910947537244.jpg,1,"{""name"":""rect"",""x"":421,""y"":163,""width"":181,""height"":143}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_201910947538172.jpg,1,"{""name"":""rect"",""x"":462,""y"":153,""width"":164,""height"":135}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_201910947539102.jpg,1,"{""name"":""rect"",""x"":462,""y"":153,""width"":164,""height"":135}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_201910949212518.jpg,1,"{""name"":""rect"",""x"":105,""y"":183,""width"":111,""height"":105}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910949445593.jpg,1,"{""name"":""rect"",""x"":11,""y"":46,""width"":187,""height"":266}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_201910949445958.jpg,1,"{""name"":""rect"",""x"":414,""y"":3,""width"":224,""height"":334}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019108311357171.jpg,1,"{""name"":""rect"",""x"":139,""y"":166,""width"":186,""height"":128}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108311358148.jpg,1,"{""name"":""rect"",""x"":93,""y"":179,""width"":181,""height"":116}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108311359126.jpg,1,"{""name"":""rect"",""x"":40,""y"":171,""width"":178,""height"":128}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108311424208.jpg,1,"{""name"":""rect"",""x"":546,""y"":83,""width"":89,""height"":200}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108311425187.jpg,1,"{""name"":""rect"",""x"":426,""y"":117,""width"":208,""height"":178}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108311426164.jpg,1,"{""name"":""rect"",""x"":301,""y"":132,""width"":273,""height"":179}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108311427142.jpg,1,"{""name"":""rect"",""x"":170,""y"":140,""width"":283,""height"":180}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108311428120.jpg,1,"{""name"":""rect"",""x"":63,""y"":156,""width"":262,""height"":165}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108311438235.jpg,1,"{""name"":""rect"",""x"":80,""y"":52,""width"":511,""height"":367}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108311439212.jpg,1,"{""name"":""rect"",""x"":3,""y"":117,""width"":262,""height"":295}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108329142358.jpg,1,"{""name"":""rect"",""x"":445,""y"":104,""width"":193,""height"":170}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_2019108329255367.jpg,1,"{""name"":""rect"",""x"":550,""y"":97,""width"":88,""height"":159}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_2019108329255442.jpg,1,"{""name"":""rect"",""x"":452,""y"":117,""width"":182,""height"":154}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_2019108329255516.jpg,1,"{""name"":""rect"",""x"":350,""y"":127,""width"":208,""height"":156}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_2019108329260171.jpg,1,"{""name"":""rect"",""x"":78,""y"":168,""width"":149,""height"":119}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_2019108329261145.jpg,1,"{""name"":""rect"",""x"":70,""y"":171,""width"":159,""height"":117}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_2019108329262119.jpg,1,"{""name"":""rect"",""x"":54,""y"":161,""width"":169,""height"":116}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_2019108331623145.jpg,1,"{""name"":""rect"",""x"":321,""y"":39,""width"":316,""height"":280}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108331635101.jpg,1,"{""name"":""rect"",""x"":186,""y"":3,""width"":410,""height"":320}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_2019108331638207.jpg,1,"{""name"":""rect"",""x"":2,""y"":108,""width"":120,""height"":195}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_2019108331648102.jpg,1,"{""name"":""rect"",""x"":6,""y"":99,""width"":219,""height"":211}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019108331656155.jpg,1,"{""name"":""rect"",""x"":1,""y"":115,""width"":75,""height"":200}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019108341510137.jpg,1,"{""name"":""rect"",""x"":2,""y"":169,""width"":107,""height"":146}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108341523238.jpg,1,"{""name"":""rect"",""x"":288,""y"":137,""width"":206,""height"":164}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108341524182.jpg,1,"{""name"":""rect"",""x"":414,""y"":128,""width"":214,""height"":171}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108341525129.jpg,1,"{""name"":""rect"",""x"":566,""y"":126,""width"":73,""height"":168}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019108342430233.jpg,1,"{""name"":""rect"",""x"":33,""y"":94,""width"":253,""height"":232}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108342439194.jpg,1,"{""name"":""rect"",""x"":398,""y"":32,""width"":241,""height"":306}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_2019108342632169.jpg,1,"{""name"":""rect"",""x"":271,""y"":183,""width"":120,""height"":83}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108342637218.jpg,1,"{""name"":""rect"",""x"":160,""y"":163,""width"":129,""height"":104}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108343222199.jpg,1,"{""name"":""rect"",""x"":198,""y"":98,""width"":435,""height"":286}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108343223141.jpg,1,"{""name"":""rect"",""x"":2,""y"":110,""width"":332,""height"":275}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019108343227221.jpg,1,"{""name"":""rect"",""x"":2,""y"":153,""width"":122,""height"":239}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019108373443211.jpg,1,"{""name"":""rect"",""x"":345,""y"":172,""width"":129,""height"":95}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019108373444178.jpg,1,"{""name"":""rect"",""x"":385,""y"":174,""width"":127,""height"":87}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019108373445144.jpg,1,"{""name"":""rect"",""x"":429,""y"":175,""width"":125,""height"":89}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019108373446111.jpg,1,"{""name"":""rect"",""x"":481,""y"":171,""width"":116,""height"":84}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019108374234253.jpg,1,"{""name"":""rect"",""x"":6,""y"":108,""width"":214,""height"":274}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_2019108374235199.jpg,1,"{""name"":""rect"",""x"":114,""y"":99,""width"":327,""height"":280}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_2019108374236145.jpg,1,"{""name"":""rect"",""x"":304,""y"":104,""width"":309,""height"":251}",OpenMV Cam H7,IMPALA,1,MALE,-0.390381,36.962333
+snapshot_2019108374240209.jpg,1,"{""name"":""rect"",""x"":555,""y"":114,""width"":83,""height"":208}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019108374241110.jpg,1,"{""name"":""rect"",""x"":550,""y"":111,""width"":88,""height"":212}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019108374349100.jpg,1,"{""name"":""rect"",""x"":307,""y"":189,""width"":99,""height"":75}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019108374354224.jpg,1,"{""name"":""rect"",""x"":446,""y"":182,""width"":98,""height"":75}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019109405724231.jpg,1,"{""name"":""rect"",""x"":42,""y"":227,""width"":116,""height"":97}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019109405737190.jpg,1,"{""name"":""rect"",""x"":228,""y"":196,""width"":131,""height"":95}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019109405738135.jpg,1,"{""name"":""rect"",""x"":77,""y"":212,""width"":140,""height"":111}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019109405749205.jpg,1,"{""name"":""rect"",""x"":4,""y"":238,""width"":108,""height"":89}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019109424532168.jpg,1,"{""name"":""rect"",""x"":261,""y"":98,""width"":226,""height"":181}",OpenMV Cam H7,WATERBUCK,1,FEMALE,-0.390381,36.962333
+snapshot_2019109424533134.jpg,1,"{""name"":""rect"",""x"":355,""y"":85,""width"":227,""height"":189}",OpenMV Cam H7,WATERBUCK,1,FEMALE,-0.390381,36.962333
+snapshot_2019109434142227.jpg,1,"{""name"":""rect"",""x"":406,""y"":212,""width"":75,""height"":83}",OpenMV Cam H7,WARTHOG,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019109434146191.jpg,1,"{""name"":""rect"",""x"":149,""y"":208,""width"":232,""height"":179}",OpenMV Cam H7,WARTHOG,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019109434147133.jpg,1,"{""name"":""rect"",""x"":5,""y"":241,""width"":210,""height"":195}",OpenMV Cam H7,WARTHOG,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019109465457254.jpg,1,"{""name"":""rect"",""x"":230,""y"":210,""width"":70,""height"":73}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019109465524118.jpg,1,"{""name"":""rect"",""x"":522,""y"":145,""width"":116,""height"":119}",OpenMV Cam H7,ZEBRA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019109471017251.jpg,1,"{""name"":""rect"",""x"":301,""y"":167,""width"":202,""height"":162}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019109471018188.jpg,1,"{""name"":""rect"",""x"":355,""y"":163,""width"":199,""height"":163}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019109471019126.jpg,1,"{""name"":""rect"",""x"":392,""y"":156,""width"":208,""height"":168}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019109471022255.jpg,1,"{""name"":""rect"",""x"":403,""y"":145,""width"":203,""height"":179}",OpenMV Cam H7,IMPALA,1,FEMALE,-0.390381,36.962333
+snapshot_2019109471034205.jpg,1,"{""name"":""rect"",""x"":547,""y"":116,""width"":90,""height"":200}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_2019109471035142.jpg,1,"{""name"":""rect"",""x"":552,""y"":119,""width"":85,""height"":200}",OpenMV Cam H7,IMPALA,1,CAN'T TELL,-0.390381,36.962333
+snapshot_20191083281848216.jpg,1,"{""name"":""rect"",""x"":183,""y"":2,""width"":456,""height"":468}",OpenMV Cam H7,WARTHOG,1,CAN'T TELL,-0.390381,36.962333
+snapshot_20191083281849165.jpg,1,"{""name"":""rect"",""x"":182,""y"":2,""width"":454,""height"":473}",OpenMV Cam H7,WARTHOG,1,CAN'T TELL,-0.390381,36.962333
+snapshot_20191083281850115.jpg,1,"{""name"":""rect"",""x"":182,""y"":2,""width"":456,""height"":470}",OpenMV Cam H7,WARTHOG,1,CAN'T TELL,-0.390381,36.962333
